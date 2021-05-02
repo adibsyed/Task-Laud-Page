@@ -1,0 +1,139 @@
+.parent{
+    position: relative;
+    width:220vh;
+    height:100vh;
+    
+    background-color: black;
+    left: 10px;
+    
+}
+.child1{
+    position: absolute;
+    left: 200px;
+    top: 20px;
+}
+.child4{
+    
+    font-size: 20px;
+    
+    padding-right: 20px;
+    
+}
+.child2{
+    position: absolute;
+    bottom: 300px;
+    left: 400px;
+}
+
+.child3{
+    position: absolute;
+    bottom: 220px;
+    left: 430px;
+}
+.second{
+    position: relative;
+}
+.container{
+    
+    position: absolute;
+    padding-top: 60px;
+}
+
+.row2{
+    padding-top: 40px;
+    padding-left: 450px;
+    
+}
+
+.btn{
+    width:120px;
+    height: 50px;
+    
+}
+
+.fa{
+    padding-right: 10px;
+}
+.row3{
+    
+    width:220vh;
+    height:200px;
+    background-color: black;
+    
+    text-align: center;
+    padding-top: 70px;
+    font-size: xx-large;
+    color: white;
+   
+}
+.third{
+    position: absolute;
+    top: 800px;
+    left: 10px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid gray;
+}
+.fourth{
+    position: absolute;
+    top: 1100px;
+    left: 10px;
+    width:220vh;
+    height: 350px;
+    padding-bottom: 50px;
+    border-bottom: 1px solid gray;
+    
+}
+.awards{
+    position: absolute;
+    top: 30px;
+    
+}
+.card1{
+    position: absolute;
+    border: 1px solid gray;
+    border-radius: 2%;
+    top: 50px;
+    left: 220px;
+   
+}
+.card2{
+    position: absolute;
+    border: 1px solid gray;
+    border-radius: 2%;
+    top: 50px;
+    left: 450px;
+   
+}
+.card3{
+    position: absolute;
+    border: 1px solid gray;
+    border-radius: 2%;
+    top: 50px;
+    left: 680px;
+}
+  
+.card4{
+    position: absolute;
+    border: 1px solid gray;
+    border-radius: 2%;
+    top: 50px;
+    left: 910px;
+  
+}
+
+.fifth{
+    position: absolute;
+    top: 1500px;
+    
+    width:155vh;
+    height: 100vh;
+}
+
+.sixth{
+    position: absolute;
+    top: 2100px;
+    left: 10px;
+    width: 220vh;
+    height: 38vh;
+    background-color:black;
+}
